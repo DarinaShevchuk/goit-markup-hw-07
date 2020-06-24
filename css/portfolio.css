@@ -540,7 +540,7 @@ img {
   margin-left: 10px;
 }
 
-.footer-social-link:hover, .footer-social-link:focus {
+.footer-icon:hover, .footer-icon:focus {
   fill: #ffffff;
   background-color: #2196f3;
 }
